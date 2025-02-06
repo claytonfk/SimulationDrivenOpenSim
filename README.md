@@ -3,8 +3,8 @@
 Paper [Link](https://www.nature.com/articles/s41598-024-65069-2)
 
 **Note:** The code requires OpenSim 4.0+ and MATLAB 2019b+ installed along with the Sensor Fusion and Tracking toolbox or the Navigation toolbox. 
-Get OpenSim [Here](https://simtk.org/projects/opensim)
 
+Get OpenSim [Here](https://simtk.org/projects/opensim).
 
 ## 1. Obtaining a human model for OpenSim
 
